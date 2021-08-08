@@ -1,5 +1,3 @@
-﻿#!/usr/bin/env python
-
 import sys
 from random import SystemRandom
 from tkinter import scrolledtext
